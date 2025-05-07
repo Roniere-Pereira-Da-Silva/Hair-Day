@@ -2,6 +2,8 @@
 
 Projeto desenvolvido como parte da pós-graduação em Desenvolvimento Full Stack. Trata-se de um sistema de agendamento de atendimentos para salões de beleza, barbearias ou qualquer outro serviço que exija marcação de horário.
 
+[Gravação de tela de 2025-05-07 15-02-54.webm](https://github.com/user-attachments/assets/04de6c22-bfc3-4bdb-b306-0c387a73dead)
+
 ## ✨ Funcionalidades
 
 - Formulário de agendamento com:
@@ -25,6 +27,7 @@ projetos-javascript-pos/
 └── src/
 ├── assets/ # Imagens e ícones
 ├── styles/ # Estilos CSS
+
 
 # 🚀 Como Usar
 
